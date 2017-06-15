@@ -1,0 +1,12 @@
+What is Python language?Python is a widely used high-level,general-pu
+rpose,iner
+pre
+ted, dyn
+amic programming language.
+Its design philosophy emphasizes code readability, and its
+syntax allows programmers to express
+  in fewer lines of code than
+  possible in languages such as C++ or Java.Python supports
+  multiple programming paradigms, including object-oriented,
+  imperative and functi  onal programming or procedural styles.It features a dynamic type syste  m and automatic memory management and has a large   and comprehensive standard li   br   ary.The best way we lea   rn anything is by practice and exercise questions.We have started this section for those (beginner to intermediate) who are
+familiar with Python.
